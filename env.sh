@@ -1,0 +1,2 @@
+export JD_COOKIE="pt_key=AAJj6xAXADC66xhMSzoVjPcnEgGGzdOvL6K5ZU13Ob6GPKurVNATLDa-MuMPV5OmdRgcLo33Xy4;pt_pin=jd_61709d776dcb7;
+&pt_key=AAJj8aEzADA9U4EDxg0hpVm1eM09GHOpOqPeLFAoUIzN8FGH7sGrBH9i-svfmL0emOpYLRxnx5I;pt_pin=jd_xBOzXwvcynOe;"

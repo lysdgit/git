@@ -1,0 +1,9 @@
+# server 酱
+## 兼容旧版和 Turbo 版
+##PUSH_KEY = "SCT38768Tf36JjaDqPUZtXhCQ98OvuPOK"
+
+# push+ 微信推送
+## 【必填】
+PUSH_PLUS_TOKEN = "c9f9ea9f28434ff9a0139c349d0358dd"
+## 群组编码，不填仅推送自己
+PUSH_PLUS_USER = ""
